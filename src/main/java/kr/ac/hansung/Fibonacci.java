@@ -9,12 +9,14 @@ public class Fibonacci {
 
         int n = Integer.parseInt(args[0]);
         if (n < 0) {
-            System.out.println("Please provide a non-negative integer.");
+            System.out.println(" provide a non-negative integer.");
             return;
         }
 
         for (int i = 0; i < n; i++) {
-            System.out.print(fibonacci(i) + " ");
+            // System.out.print(fibonacci(i) + " ");
+            int fibo=fibonacci(i);
+            System.out.println(fibo);
         }
     }
 

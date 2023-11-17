@@ -6,3 +6,4 @@ Fibonacci 계산하는 자바 프로그램으로서 github actions을 사용하�
 3) maven을 사용하여 package 생성(Fibonacci-1.0-SNAPSHOT.jar)
 4) maven을 사용하여 단위 테스트
 5) Jar 화일 실행
+6)작동된다
